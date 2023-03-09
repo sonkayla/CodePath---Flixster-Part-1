@@ -2,7 +2,7 @@
 
 Submitted by: **Kayla Son**
 
-**Flister Pt. 1** is a movie browsing app that... [TODO] 
+**Flister Pt. 1** is a movie browsing app that shows the user a selection of movies that they can click on to show more detail about it. 
 
 Time spent: **13** hours spent in total
 
