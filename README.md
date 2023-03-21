@@ -2,7 +2,7 @@
 
 Submitted by: **Kayla Son**
 
-**Flister Pt. 1** is a movie browsing app that shows the user a selection of movies that they can click on to show more detail about it. 
+**Flister Pt. 1** is an app similar to Flixster. This is a two-part project. For this initial portion, it will use hardcoded Movie data models to display mocked data.
 
 Time spent: **13** hours spent in total
 
